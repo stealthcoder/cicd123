@@ -14,7 +14,7 @@
     <name>demo-cicd</name>
     <description>demo-cicd</description>
     <properties>
-        <java.version>17</java.version>
+        <java.version>12</java.version>
     </properties>
     <dependencies>
         <dependency>
